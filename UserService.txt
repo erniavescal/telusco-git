@@ -1,2 +1,4 @@
 Tomar data de usuario...
 procesar datos
+
+crear un avatar para usuario
