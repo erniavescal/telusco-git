@@ -1,0 +1,2 @@
+añadir y quitar usuarios
+cambiar roles
